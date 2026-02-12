@@ -2,7 +2,7 @@
 
 ## 📖 Project Description
 
-Vision Crew is an interactive STEM visualization platform designed to help students understand complex science, technology, engineering, and mathematics concepts through visual simulations instead of traditional text-based learning.
+Vision Crew is an interactive STEM visualization platform designed to help students understand complex science, technology, engineering, and mathematics concepts through Visual simulations instead of traditional text-based learning.
 
 The platform focuses on improving conceptual clarity using dynamic visual representations.
 
