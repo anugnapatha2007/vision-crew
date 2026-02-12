@@ -1,0 +1,4 @@
+project_id = "oanxbwkfdhuyyyvvpxto"
+
+[functions.solve-stem]
+verify_jwt = false
