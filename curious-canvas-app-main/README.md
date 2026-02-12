@@ -60,7 +60,9 @@ streamlit run app.py
 
 
 ## 🖼️ Demo Screenshots
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## 📂 Directory Structure
 
@@ -76,3 +78,4 @@ project-name/
 -P.Anugna
 -K.Pavani
 -S.Varnika
+-M.Hani lasya
