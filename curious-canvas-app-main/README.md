@@ -37,16 +37,18 @@ Libraries:
 ## ⚙️ How to Run the Project
 
 ### Step 1: Clone Repository
-git clone https://github.com/your-username/project-name
+git clone https://github.com/anugnapatha2007/vision-crew
 
 ### Step 2: Navigate to Folder
-cd project-name
+cd curious-canvas-app-main
+npm install
+npm run dev
 
 ### Step 3: Install Dependencies
 pip install -r requirements.txt
 
-### Step 4: Run the Project
-streamlit run app.py
+you will see local and network 
+you can open any of the links
 
 
 ## 📦 Dependencies
